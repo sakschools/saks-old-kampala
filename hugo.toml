@@ -1,3 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://old-kampala.sirapollokaggwaschools.co.ug/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Sir Apollo Kaggwa Primary School - Old-kampala'
+theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
+
+
+[params]
+logo = "/img/logo.png"
+mainSchool = false
+defaultDescription = "Sir Apollo Kaggwa Primary School-old-kampala is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level."
+    [params.school]
+        name = "old-kampala"
+        motto = 'EDUCATION BEST INVESTMENT'
+        mission = 'To be a leading school in the provision of quality education'
+        vision = 'The vision of Sir Apollo Kaggwa Primary School, old-kampala is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work.'
+        summary1 = 'Sir Apollo Kaggwa Primary School-old-kampala is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level. The school has two sections i.e pre-school and Primary school.'
+        summary2 = 'At Sir Apollo Kaggwa Primary School, old-kampala, we are always learning through a holistic curriculum where individual talents are celebrated and nurtured. Working together as one team, in a caring, yet stimulating environment, we ensure that as an organization, excellence is the expectation. Our network of strong pastoral support fulfills the ambitions of students so that graduates go on to make a positive difference to the world in which they live.'
+        hm = "On behalf of the Manage­ment, Ad­ministration, staff and pupils, I give sincere honor to the almighty for the pre­cious life and knowledge, God has passed on to us, the Sir Apollo Kaggwa community, our dear Parents and our Country at Large.Sir Apollo Kaggwa is a renowned boarding school in Kampala respected for its academic excellence manifested over the years. The school started in 1996 with 300 pupils. "
+    [params.carousel]
+        two = "Offering a broad learning environment"
+        three = "We train leaders by embracing smartness"
+        four = "Offering the best learning skills to students"
+        five = "Welcoming all types of students"
+        six = "Interactive teachers that monitor pupils in all activities"
+        
