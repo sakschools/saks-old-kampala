@@ -9,6 +9,7 @@ logo = "/img/logo.png"
 mainSchool = false
 defaultDescription = "Sir Apollo Kaggwa Primary School-old-kampala is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level."
     [params.school]
+        hm_name = "NYAWERE JANE"
         name = "old-kampala"
         motto = 'EDUCATION BEST INVESTMENT'
         mission = 'To be a leading school in the provision of quality education'
