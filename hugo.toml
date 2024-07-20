@@ -1,8 +1,7 @@
 baseURL = 'https://old-kampala.sirapollokaggwaschools.co.ug/'
 languageCode = 'en-us'
 title = 'Sir Apollo Kaggwa Primary School - Old-kampala'
-theme = "C:\\Users\\timot\\SAKS_web\\sirapollokaggwaschools\\themes\\saks-theme"
-
+theme = "saks-theme"
 
 [params]
 logo = "/img/logo.png"
