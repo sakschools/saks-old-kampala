@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sakschools/saks-fairways
+  repo: sakschools/saks-old-kampala
   branch: main
   site_domain: https://old-kampala.sirapollokaggwaschools.co.ug
   base_url: https://old-kampala.sirapollokaggwaschools.co.ug
