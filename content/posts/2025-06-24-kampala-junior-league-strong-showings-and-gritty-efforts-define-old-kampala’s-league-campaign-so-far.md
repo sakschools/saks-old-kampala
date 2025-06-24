@@ -16,8 +16,6 @@ Match Day 2 brought tougher opposition, but the team remained composed. Despite 
 
 ![]()
 
-
-
 **Girls’ Football**
 
 The girls’ football team has been equally outstanding. They opened Match Day 1 with a convincing 3-0 win over Sir Apollo Kaggwa Primary School  Mengo, followed by a disciplined 1-0 victory against Sir Apollo Kaggwa Primary School  Kira, showing clear command over match tempo and tactical awareness.
@@ -27,8 +25,6 @@ The girls’ football team has been equally outstanding. They opened Match Day 1
 Their momentum continued into Match Day 2 with a 3-1 win over City Parents, and a goalless draw with a determined Fairways side. After four matches, the girls remain unbeaten, having scored seven goals and conceded just once, a testament to their unity, resilience, and strategic play.
 
 ![](/img/2.webp)
-
-
 
 **Boys’ Basketball**
 
@@ -48,13 +44,13 @@ Their effort bore fruit with an 18-12 victory over Fairways, followed by a spiri
 
 **Junior Basketball**
 
-Match Day 2 marked the introduction of junior categories, and Sir Apollo Boarding – Old Kampala made a resounding entrance. The junior basketball team won both their matches, defeating City Parents 9-2 and Fairways 12-4. These performances were a reflection of solid training, strong fundamentals, and excellent team spirit.
+Match Day 2 marked the introduction of junior categories, and Sir Apollo Kaggwa Boarding Primary School – Old Kampala made a resounding entrance. The junior basketball team won both their matches, defeating City Parents 9-2 and Fairways 12-4. These performances were a reflection of solid training, strong fundamentals, and excellent team spirit.
 
 ![](/img/6.webp)
 
  **Junior Football**
 
-The junior footballers also impressed on debut. They opened with a competitive 2-2 draw against City Parents, showing determination and composure, before securing a 2-0 win over Fairways. Their performance reflected the depth of talent and strength of the school’s sports development programme.
+The junior footballers also impressed on debut. They opened with a competitive 2-2 draw against City Parents, showing determination and composure, before securing a 2-0 win over Fairways. Their performance reflected the depth of talent and strength of the school’s talent development programme.
 
 ![](/img/3.webp)
 
