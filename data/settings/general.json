@@ -1,0 +1,17 @@
+{
+  "theme": "saks-theme",
+  "logo": "/img/logo.png",
+  "mainSchool": false,
+  "school": {
+    "motto": "EDUCATION BEST INVESTMENT",
+    "mission": "To be a leading school in the provision of quality education",
+    "vision": "The vision of Sir Apollo Kaggwa Primary School, old-kampala is to produce devoted learners in academics, moral education and life skills, leadership skills, creativity, and innovation, honest and humble, self-driven with a positive attitude towards quality work."
+  },
+  "address": "",
+  "title": "Sir Apollo Kaggwa Primary School - Old-kampala",
+  "locale": "en-us",
+  "defaultDescription": "Sir Apollo Kaggwa Primary School-old-kampala is a number one education service provider within Uganda aiming at developing a holistic child throughout the primary level.",
+  "email": "info@sirapollokaggwaschools.co.ug",
+  "baseURL": "https://old-kampala.sirapollokaggwaschools.co.ug/",
+  "google_map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7570294722154!2d32.56494337369959!3d0.3175846640266845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbdbe10423aed%3A0x6c5568c41ee01781!2sSir%20Apollo%20kaggwa%20boarding%20primary%20school%20old%20kampala!5e0!3m2!1sen!2sug!4v1711284320757!5m2!1sen!2sug"
+}
