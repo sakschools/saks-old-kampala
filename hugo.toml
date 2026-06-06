@@ -1,8 +1,12 @@
 baseURL = 'https://old-kampala.sirapollokaggwaschools.co.ug/'
 locale = 'en-us'
 title = 'Sir Apollo Kaggwa Primary School - Old-kampala'
-theme = "saks-theme"
+
+[module]
+  [[module.imports]]
+    path = 'github.com/sakschools/saks-shared-theme'
 
 [params]
 logo = "/img/logo.png"
 mainSchool = false
+github_repo = "saks-old-kampala"
